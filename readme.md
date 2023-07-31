@@ -1,4 +1,4 @@
-## Social Media application for college student 
+## This is a Team Project which is a Social Media application for college student 
 
 ![Screenshot (658)](https://user-images.githubusercontent.com/70800059/224500968-98f60f3f-454a-4179-8234-40e9ed26db51.png)
 ![Screenshot (659)](https://user-images.githubusercontent.com/70800059/224501011-55d40b27-116d-4a35-a58d-3ff0595b813e.png)
